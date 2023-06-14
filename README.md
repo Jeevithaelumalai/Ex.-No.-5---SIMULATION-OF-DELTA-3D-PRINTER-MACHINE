@@ -31,8 +31,9 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:JEEVITHA.E
+### Register Number:212222230054
+![image](https://github.com/Jeevithaelumalai/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/118708245/f37caa38-2359-417d-a41d-d675a9267db8)
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
